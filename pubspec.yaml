@@ -7,7 +7,7 @@ homepage: https://github.com/seenickcode/pure_mixpanel
 dependencies:
   flutter:
     sdk: flutter
-  meta: 1.1.7
+  meta: 1.1.8
   http: 0.12.0+2
   test: any
 
