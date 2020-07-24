@@ -8,7 +8,7 @@ dependencies:
   flutter:
     sdk: flutter
   meta: 1.1.8
-  http: 0.12.0+2
+  http: 0.12.1
   test: any
 
 dev_dependencies:
